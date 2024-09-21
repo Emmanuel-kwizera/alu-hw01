@@ -1,6 +1,6 @@
 # UniqueInt
 
-This program extracts unique integers from a file and writes them to another file in ascending order.
+This program reads integers from a file, filters out duplicates, and writes the unique integers to another file in ascending order.
 
 ## Usage
 
